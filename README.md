@@ -1,6 +1,7 @@
 # Certificates-and-Badges
-<br/>
-__IT Fundamentals for Cybersecurity Specialization - Coursera__ <br/>
-Taught By - __IBM__<br/>
-Number of Courses - __4__<br/>
-Badges Provided by - __Acclaim__
+
+## IT Fundamentals for Cybersecurity Specialization - Coursera
+```bash
+Taught By - IBM
+Number of Courses - 4
+Badges Provided by - Acclaim
